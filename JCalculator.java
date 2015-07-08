@@ -36,7 +36,7 @@ import javax.swing.*;
 
  */
 
-public class JCalculat extends JFrame implements ActionListener {
+public class JCalculator extends JFrame implements ActionListener {
 
     /**
 
